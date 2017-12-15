@@ -1,0 +1,9 @@
+version: '3'
+services:
+  app:
+     build: .
+     command: "python /var/www/manage.py runserver 0.0.0.0:8000"
+     ports:
+       - "8000:8000"
+     volumes:
+       - ".:/var/www"
