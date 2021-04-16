@@ -1,7 +1,7 @@
 certifi==2017.11.5
 chardet==3.0.4
 Django==1.11.7
-django-debug-toolbar==1.9.1
+django-debug-toolbar==1.11.1
 dlib==19.7.0
 idna==2.6
 numpy==1.13.3
