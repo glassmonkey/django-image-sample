@@ -4,7 +4,7 @@ Django==1.11.7
 django-debug-toolbar==1.9.1
 dlib==19.7.0
 idna==2.6
-numpy==1.13.3
+numpy==1.22.0
 olefile==0.44
 opencv-python==3.3.0.10
 Pillow==4.3.0
